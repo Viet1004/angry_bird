@@ -11,7 +11,7 @@ Notation:
 2. $X_t$: the position of the bird
 3. $g$: gravity force $g = (0, -4)^T$ 
 4. $\lambda$: air resistance
-5. $\bold{V}$: the wind. It is a vector of two components
+5. $V_t$: the wind. It is a vector of two components
 6. $u_t$: velocity control 
 
 The dynamic of $X_t$
